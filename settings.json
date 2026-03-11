@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "OWNOR",
   "bot-account": {
-    "username": "imgonnacream",
-    "password": "",
+    "username": "Vali_gamer23",
+    "password": "12345",
     "type": "offline"
   },
   "server": {
-    "ip": "sigmarizz111.aternos.me",
-    "port": 45899,
-    "version": "",
+    "ip": "SMP_YT.aternos.me",
+    "port": 47354,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
