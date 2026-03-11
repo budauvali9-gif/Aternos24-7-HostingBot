@@ -2,13 +2,13 @@
   "name": "OWNOR",
   "bot-account": {
     "username": "Vali_gamer23",
-    "password": "12345",
+    "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "SMP_YT.aternos.me",
     "port": 47354,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
